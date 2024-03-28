@@ -10,7 +10,7 @@ No projeto foram utilizadas funções para renderizar vídeos.
 useState e useEffect: Hooks são funções que permitem "ligar-se" aos recursos de state, que diz ao React que o componente precisa fazer algo apenas depois da renderização.
 
 ## Telas web
-![Web 1]([https://github.com/JORGECARDOSODEV/appvideo/blob/main/printappvideo.jpg])
+![Web 1](https://github.com/JORGECARDOSODEV/appvideo/blob/main/printappvideo.jpg)
 
 # Tecnologias utilizadas
 Recursos utilizados:
