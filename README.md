@@ -1,5 +1,5 @@
 # App Video
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/JORGECARDOSODEV/jogobaloes/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/JORGECARDOSODEV/appvideo/blob/main/LICENSE) 
 
 # Sobre o projeto
 
